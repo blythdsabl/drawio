@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="TEI-SiW4jqr_mExIA2hw">
-    <mxGraphModel dx="1916" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2396" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,12 @@
           <mxGeometry height="60" width="160" x="80" y="80" as="geometry" />
         </mxCell>
         <mxCell id="sr35LQHOzbYKYDiPpSBT-92" edge="1" parent="1" source="sr35LQHOzbYKYDiPpSBT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="sr35LQHOzbYKYDiPpSBT-32">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="200" />
+              <mxPoint x="160" y="200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="sr35LQHOzbYKYDiPpSBT-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fillColor=#ffe6cc;strokeColor=default;" value="&lt;b&gt;Works autonomously&lt;/b&gt; with &lt;b&gt;limited&lt;br&gt;supervision&lt;/b&gt; on larger, moderately complex&lt;br&gt;projects/assignments." vertex="1">
           <mxGeometry height="60" width="160" x="260" y="80" as="geometry" />
@@ -23,7 +28,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="15QiROTeTvg0lFY15EgS-20" edge="1" parent="1" source="sr35LQHOzbYKYDiPpSBT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" target="15QiROTeTvg0lFY15EgS-17">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="220" />
+              <mxPoint x="276" y="220" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="sr35LQHOzbYKYDiPpSBT-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fillColor=#dae8fc;strokeColor=default;" value="Solves a broad range of issues using discretion, judgement, and prior experience, while &lt;b&gt;making minor improvements&lt;/b&gt; to systems and processes to enhance effectiveness." vertex="1">
           <mxGeometry height="60" width="160" x="440" y="80" as="geometry" />
@@ -36,8 +46,8 @@
         <mxCell id="sr35LQHOzbYKYDiPpSBT-94" edge="1" parent="1" source="sr35LQHOzbYKYDiPpSBT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="sr35LQHOzbYKYDiPpSBT-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="700" y="250" />
-              <mxPoint x="160" y="250" />
+              <mxPoint x="700" y="200" />
+              <mxPoint x="160" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -246,7 +256,7 @@
           <mxGeometry height="38.5" width="110" x="920" y="220" as="geometry" />
         </mxCell>
         <mxCell id="sr35LQHOzbYKYDiPpSBT-106" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="45" width="116" x="320" y="314" as="geometry" />
+          <mxGeometry height="45" width="116" x="324" y="313.5" as="geometry" />
         </mxCell>
         <mxCell id="sr35LQHOzbYKYDiPpSBT-110" connectable="0" parent="sr35LQHOzbYKYDiPpSBT-106" style="group" value="" vertex="1">
           <mxGeometry height="45" width="116" as="geometry" />
@@ -260,7 +270,7 @@
         <mxCell id="sr35LQHOzbYKYDiPpSBT-114" edge="1" parent="1" source="sr35LQHOzbYKYDiPpSBT-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="sr35LQHOzbYKYDiPpSBT-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="375" y="420" />
+              <mxPoint x="379" y="420" />
               <mxPoint x="520" y="420" />
             </Array>
           </mxGeometry>
@@ -403,6 +413,11 @@
         </mxCell>
         <mxCell id="15QiROTeTvg0lFY15EgS-16" connectable="0" parent="15QiROTeTvg0lFY15EgS-15" style="group" value="" vertex="1">
           <mxGeometry height="45" width="116" as="geometry" />
+        </mxCell>
+        <mxCell id="15QiROTeTvg0lFY15EgS-21" edge="1" parent="15QiROTeTvg0lFY15EgS-16" source="15QiROTeTvg0lFY15EgS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="299" y="219" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="15QiROTeTvg0lFY15EgS-17" parent="15QiROTeTvg0lFY15EgS-16" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fillColor=#dae8fc;strokeColor=default;fontStyle=1" value="Project handover process improvements" vertex="1">
           <mxGeometry height="40" width="110" y="5" as="geometry" />
