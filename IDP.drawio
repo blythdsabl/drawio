@@ -79,7 +79,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="15QiROTeTvg0lFY15EgS-7" edge="1" parent="1" source="sr35LQHOzbYKYDiPpSBT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="15QiROTeTvg0lFY15EgS-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="240" />
+              <mxPoint x="935" y="240" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="sr35LQHOzbYKYDiPpSBT-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fillColor=#d5e8d4;strokeColor=default;" value="&lt;b&gt;Explains policies, practices and procedures&lt;/b&gt;&lt;br&gt;of the work area to others within the&lt;br&gt;organization, influencing decision-makers&lt;br&gt;with recommended courses of action." vertex="1">
           <mxGeometry height="60" width="160" x="800" y="80" as="geometry" />
