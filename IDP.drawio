@@ -10,6 +10,9 @@
         <mxCell id="sr35LQHOzbYKYDiPpSBT-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fillColor=#ffe6cc;strokeColor=default;" value="&lt;b&gt;Works autonomously&lt;/b&gt; with &lt;b&gt;limited&lt;br&gt;supervision&lt;/b&gt; on larger, moderately complex&lt;br&gt;projects/assignments." vertex="1">
           <mxGeometry height="60" width="160" x="260" y="80" as="geometry" />
         </mxCell>
+        <mxCell id="sr35LQHOzbYKYDiPpSBT-87" edge="1" parent="1" source="sr35LQHOzbYKYDiPpSBT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="sr35LQHOzbYKYDiPpSBT-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sr35LQHOzbYKYDiPpSBT-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fillColor=#dae8fc;strokeColor=default;" value="Solves a broad range of issues using discretion, judgement, and prior experience, while &lt;b&gt;making minor improvements&lt;/b&gt; to systems and processes to enhance effectiveness." vertex="1">
           <mxGeometry height="60" width="160" x="440" y="80" as="geometry" />
         </mxCell>
@@ -122,7 +125,7 @@
           <mxGeometry height="11" width="11" x="105" as="geometry" />
         </mxCell>
         <mxCell id="sr35LQHOzbYKYDiPpSBT-52" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="45" width="116" x="780" y="315" as="geometry" />
+          <mxGeometry height="45" width="116" x="750" y="315" as="geometry" />
         </mxCell>
         <mxCell id="sr35LQHOzbYKYDiPpSBT-33" parent="sr35LQHOzbYKYDiPpSBT-52" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fillColor=#d5e8d4;strokeColor=default;fontStyle=1" value="Ignition tool development" vertex="1">
           <mxGeometry height="40" width="110" y="5" as="geometry" />
@@ -134,7 +137,7 @@
           <mxGeometry height="12" width="12" x="1440" y="158" as="geometry" />
         </mxCell>
         <mxCell id="sr35LQHOzbYKYDiPpSBT-68" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="45" width="116" x="420" y="314" as="geometry" />
+          <mxGeometry height="45" width="116" x="420" y="315" as="geometry" />
         </mxCell>
         <mxCell id="sr35LQHOzbYKYDiPpSBT-69" parent="sr35LQHOzbYKYDiPpSBT-68" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fillColor=#dae8fc;strokeColor=default;fontStyle=1" value="Team GitLab repositories" vertex="1">
           <mxGeometry height="40" width="110" y="5" as="geometry" />
@@ -194,7 +197,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sr35LQHOzbYKYDiPpSBT-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fillColor=light-dark(#EEECDA,#3E3216);strokeColor=default;fillStyle=solid;fontStyle=1" value="CORE Apprentice" vertex="1">
-          <mxGeometry height="38.5" width="110" x="1120" y="240" as="geometry" />
+          <mxGeometry height="38.5" width="110" x="1110" y="321.5" as="geometry" />
         </mxCell>
         <mxCell id="sr35LQHOzbYKYDiPpSBT-83" edge="1" parent="1" source="sr35LQHOzbYKYDiPpSBT-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" target="sr35LQHOzbYKYDiPpSBT-28">
           <mxGeometry relative="1" as="geometry" />
