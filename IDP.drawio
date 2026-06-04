@@ -360,7 +360,12 @@
           <mxGeometry height="11" width="11" x="104" as="geometry" />
         </mxCell>
         <mxCell id="sr35LQHOzbYKYDiPpSBT-156" edge="1" parent="1" source="sr35LQHOzbYKYDiPpSBT-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="sr35LQHOzbYKYDiPpSBT-28">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="805" y="530" />
+              <mxPoint x="700" y="530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="sr35LQHOzbYKYDiPpSBT-157" edge="1" parent="1" source="sr35LQHOzbYKYDiPpSBT-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" target="sr35LQHOzbYKYDiPpSBT-26">
           <mxGeometry relative="1" as="geometry" />
